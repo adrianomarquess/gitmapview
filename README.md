@@ -16,7 +16,7 @@ Learning and testing maps with [react-native-maps](https://github.com/react-comm
 3. Go to the project folder
 4. Install dependencies
 ```
-git clone https://github.com/drimarques/gitmapview.git
+git clone https://github.com/adrianomarquess/gitmapview.git
 cd gitmapview
 npm install
 ```
